@@ -1,0 +1,27 @@
+{
+  "name": "node_http_testing_example",
+  "version": "0.0.1",
+  "description": "Example of setting up automated tests for http requests.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bpshonyak/node_http_testing_example.git"
+  },
+  "keywords": [
+    "test",
+    "node",
+    "gulp",
+    "gulp-guppy",
+    "request",
+    "tdd"
+  ],
+  "author": "Bogdan Pshonyak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bpshonyak/node_http_testing_example/issues"
+  },
+  "homepage": "https://github.com/bpshonyak/node_http_testing_example#readme"
+}
